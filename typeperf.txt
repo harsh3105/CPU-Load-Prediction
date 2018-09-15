@@ -1,0 +1,6 @@
+cd\
+
+cd windows\system32
+
+
+typeperf "\Memory\Available bytes" "\processor(_total)\% processor time"
